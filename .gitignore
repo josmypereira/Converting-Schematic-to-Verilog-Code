@@ -1,0 +1,6 @@
+.Xil/
+verilog_ch.cache/
+verilog_ch.hw/
+verilog_ch.ip_user_files/
+verilog_ch.sim/
+is_prime_TB_behav.wcfg
